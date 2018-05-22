@@ -1,0 +1,34 @@
+
+Objective : This is a small excerise we are going to build the Java project and using Maven as a build tool to automate it 
+and deploy it in the server.  
+
+Java is a open source and we can download the required libraries from the internet and start working on it. The advantage of Java 
+is once we done our development and compile the source code and implement it on any platform.So it is a platform independent 
+and no need to install any softwares in client side.
+
+Install the Java JDK and JRE in your machine before you start of your development. Please refer the below link.
+https://docs.oracle.com/javase/9/install/installation-jdk-and-jre-microsoft-windows-platforms.htm#JSJIG-GUID-A7E27B90-A28D-4237-9383-A58B416071CA
+
+Once you install the JDK and JRE and it needs to be added in your environment vairable path. Follow the procedure given in the above link.
+
+For Development purpose , we require JDK otherwise JRE (Java Runtime environment) is enough to run the project. ex: WAR file
+
+Save the below file as TestProgram.Java. We can use any text editor and save the file as .java extenstion. 
+
+class TestProgram{  
+    public static void main(String args[]){  
+     System.out.println("Devops program started");  
+    }  
+}  
+
+To compile:	javac Simple.java   ( In the command prompt , just use this command and press enter and it will check our program if the code 
+contains any error. After that run the below command to execut the program.
+
+To execute:	java Simple
+
+Output:Devops program started
+
+
+
+
+
