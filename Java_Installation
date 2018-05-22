@@ -21,10 +21,12 @@ class TestProgram{
     }  
 }  
 
-To compile:	javac Simple.java   ( In the command prompt , just use this command and press enter and it will check our program if the code 
+Note: Make sure you are in folder where you have saved your Java program and start compiling.
+
+To compile:	javac TestProgram.java   ( In the command prompt , just use this command and press enter and it will check our program if the code 
 contains any error. After that run the below command to execut the program.
 
-To execute:	java Simple
+To execute:	java TestProgram
 
 Output:Devops program started
 
